@@ -1,5 +1,5 @@
 * {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Lato', sans-serif;
   color: #f4eeff;
 }
 
@@ -14,8 +14,7 @@ header {
 header .header-logo {
   margin-left: 30px;
   font-size: 30px;
-  line-height: 50px;
-  font-family: sans-serif;
+  line-height: 45px;
 }
 
 .top-section {
